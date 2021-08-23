@@ -10,7 +10,7 @@
 
 ## 2. 如何交换友链
 
-如果你认为自己符合上面的要求，那么就欢迎来和班班交换友链啦（参考[苏卡卡的友链添加方式](https://github.com/SukkaW/Friends)）。
+如果你认为自己符合上面的要求，那么就欢迎来和班班交换友链啦。
 
 ### 2.1 将本站添加到自己的友链中
 你可以使用以下的信息：
@@ -31,7 +31,7 @@
   - 长度应小于 16 个半角字符或 8 个全角字符，否则在展示时可能会被截断
 
 ### 2.3 提交申请
-- 在 GitHub 上 Fork [友链代码仓库](https://github.com/lei2rock/Friends)，如果你不会创建，可以在 [关于更多页面](https://blog.dlzhang.com/more) 评论区留下上述相关信息；
+- Fork [友链代码仓库](https://github.com/lei2rock/Friends)（如果无法使用 GitHub，可以在[关于更多页面](https://blog.dlzhang.com/more)评论区留下上述信息）；
 - 在仓库 `src/logo` 文件夹下添加 Logo 图片；
   - 文件名格式为 `[domain].[format]`，如 `example.com.png`，`blog.example.com.jpg`
 - 按照如下格式将网站信息添加到仓库 `src/friendslists.yml` 文件中：
@@ -40,4 +40,4 @@
       logo: example.com.png # Logo 图片的文件名
       url: https://example.com # 你的网站链接
     ```
-- 完成后，请新建一个 Pull Request，通过后将会尽快显示在 [友链页面](https://blog.dlzhang.com/friends)。
+- 完成后，请新建一个 Pull Request，通过后将会尽快显示在[友链页面](https://blog.dlzhang.com/friends)。
