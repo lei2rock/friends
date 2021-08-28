@@ -1,9 +1,9 @@
-name: Friends@lei2rock
+name: leirock-friends
 
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build:

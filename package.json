@@ -1,5 +1,5 @@
 {
-  "name": "friends",
+  "name": "leirock-friends",
   "version": "0.0.0",
   "description": "",
   "scripts": {
@@ -8,7 +8,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lei2rock/friends.git"
+    "url": "git+https://github.com/leirock/friends.git"
   },
   "license": "ISC",
   "dependencies": {
