@@ -15,7 +15,7 @@ jobs:
       with:
         persist-credentials: false
 
-    - name: Setup Node.js
+    - name: Setup Node
       uses: actions/setup-node@v2
 
     - name: Build friends list
@@ -33,3 +33,12 @@ jobs:
         secret_key: ${{ secrets.SECRET_KEY }}
         bucket: ${{ secrets.BUCKET }}
         region: ap-hongkong
+
+    - name: Telegram notification
+      if: cancelled() == false
+      uses: xinthink/action-telegram@v1.1
+      with:
+        botToken: ${{ secrets.TG_BOT_TOKEN }} #use bot @BotFather
+        chatId: ${{ secrets.TG_CHAT_ID }} #use bot @userinfobot
+        jobStatus: ${{ job.status }}
+        skipSuccess: false
