@@ -25,10 +25,11 @@ jobs:
         yarn build
         cp -r src/logo dist/logo
 
-    - name: Deploy
-      uses: peaceiris/actions-gh-pages@v3
+    - name: Upload to COS
+      uses: zkqiang/tencent-cos-action@v0.1.0
       with:
-        personal_token: ${{ secrets.GH_TOKEN }}
-        publish_branch: dist
-        publish_dir: ./dist
-        commit_message: ${{ github.event.head_commit.message }}
+        args: upload -rs --delete dist pages/friends -f
+        secret_id: ${{ secrets.SECRET_ID }}
+        secret_key: ${{ secrets.SECRET_KEY }}
+        bucket: ${{ secrets.BUCKET }}
+        region: ap-hongkong
