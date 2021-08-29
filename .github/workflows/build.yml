@@ -38,7 +38,7 @@ jobs:
       if: cancelled() == false
       uses: xinthink/action-telegram@v1.1
       with:
-        botToken: ${{ secrets.TG_BOT_TOKEN }} #use bot @BotFather
-        chatId: ${{ secrets.TG_CHAT_ID }} #use bot @userinfobot
+        botToken: ${{ secrets.TG_BOT_TOKEN }}
+        chatId: ${{ secrets.TG_CHAT_ID }}
         jobStatus: ${{ job.status }}
         skipSuccess: false

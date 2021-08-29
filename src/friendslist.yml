@@ -28,7 +28,7 @@
 - name: Abalone
   logo: abalone.life.jpg
   url: https://abalone.life
-- name: Ljcbaby 小屋
+- name: Ljcbaby
   logo: ljcbaby.top.png
   url: https://blog.ljcbaby.top
 - name: Daman
@@ -57,4 +57,4 @@
   url: https://blog.skk.moe
 - name: 宝硕博客
   logo: blog.baoshuo.ren.png
-  url: https://blog.baoshuo.ren/?utm_source=friends
+  url: https://blog.baoshuo.ren
