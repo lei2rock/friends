@@ -1,4 +1,4 @@
-# [班班的小伙伴们](https://blog.dlzhang.com/friends)
+# [班班的友情链接](https://blog.dlzhang.com/friends)
 
 所以，要来和班班交换友链吗？
 
