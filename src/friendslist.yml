@@ -1,48 +1,64 @@
-- name: moliu
+- title: moliu
+  description: Have the courage to follow your heart and intuition.
   logo: shuxinyang.com.jpg
-  url: https://shuxinyang.com
-- name: 荷戟独彷徨
+  url: http://shuxinyang.com
+- title: 荷戟独彷徨
+  description: 爱光学，爱生活，爱创造
   logo: guanqr.com.png
   url: https://guanqr.com
-- name: miyehn
+- title: 槽
+  description: 喜欢画画，也喜欢胡思乱想
   logo: miyehn.me.jpg
   url: https://miyehn.me/blog
-- name: Velas电波站
+- title: Velas电波站
+  description: 非正常信号发射与搜寻装置
   logo: www.velasx.com.jpg
   url: https://www.velasx.com
-- name: 米米的博客
+- title: 米米
+  description: 米米的博客！！
   logo: zhangshuqiao.org.jpg
   url: https://zhangshuqiao.org
-- name: Sukka
+- title: Sukka
+  description: 童话只美在真实却从不续写
   logo: blog.skk.moe.png
   url: https://blog.skk.moe
-- name: xaoxuu
+- title: xaoxuu
+  description: 一个 iOS 开发者
   logo: xaoxuu.com.png
   url: https://xaoxuu.com
-- name: Armstrong
+- title: Armstrong
+  description: 一位视障学生的日志
   logo: armstrong.viyf.org.png
   url: https://armstrong.viyf.org
-- name: 林洋洋
+- title: 林洋洋
+  description: 有故事的个人博客
   logo: linyy.name.png
   url: http://linyy.name
-- name: Lan Ling
+- title: 兰铃
+  description: 爱生活，爱读书，爱摄影，爱运动，爱睡觉，爱旅行。
   logo: muyuuuu.github.io.png
   url: https://muyuuuu.github.io
-- name: ZZONN
+- title: ZZONN
+  description: 记录生活，提高生产力
   logo: www.zzonn.com.jpg
   url: https://www.zzonn.com
-- name: Ljcbaby
+- title: Ljcbaby 的网络小屋
+  description: 宁静的栖身之地
   logo: ljcbaby.top.png
   url: https://blog.ljcbaby.top
-- name: 爱即是诗
+- title: 爱即是诗
+  description: 一个关于GIS的博客
   logo: aigisss.com.png
   url: https://aigisss.com/blog/
-- name: 呆逼の博客
+- title: 呆逼の博客
+  description: 分享日常本身，就是一件很浪漫的事。
   logo: blog.keepdai.cn.png
   url: https://blog.keepdai.cn
-- name: SuperPung
+- title: SuperPung
+  description: Follow Your Heart
   logo: blog.superpung.xyz.png
   url: https://blog.superpung.xyz
-- name: 林深时见璐
+- title: 林深时见璐
+  description: Work-Life-Balance
   logo: linwhitehat.github.io.png
   url: https://linwhitehat.github.io
