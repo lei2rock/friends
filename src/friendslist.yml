@@ -7,9 +7,6 @@
 - name: miyehn
   logo: miyehn.me.jpg
   url: https://miyehn.me/blog
-- name: 林深时见璐
-  logo: linwhitehat.github.io.png
-  url: https://linwhitehat.github.io
 - name: Velas电波站
   logo: www.velasx.com.jpg
   url: https://www.velasx.com
@@ -22,24 +19,21 @@
 - name: xaoxuu
   logo: xaoxuu.com.png
   url: https://xaoxuu.com
-- name: 元哥的日记
-  logo: leeee.top.jpg
-  url: http://leeee.top
+- name: Armstrong
+  logo: armstrong.viyf.org.png
+  url: https://armstrong.viyf.org
+- name: 林洋洋
+  logo: linyy.name.png
+  url: http://linyy.name
 - name: Lan Ling
   logo: muyuuuu.github.io.png
   url: https://muyuuuu.github.io
 - name: ZZONN
   logo: www.zzonn.com.jpg
   url: https://www.zzonn.com
-- name: Abalone
-  logo: abalone.life.jpg
-  url: https://abalone.life
 - name: Ljcbaby
   logo: ljcbaby.top.png
   url: https://blog.ljcbaby.top
-- name: Daman
-  logo: damanyang.cn.jpg
-  url: https://damanyang.cn
 - name: 爱即是诗
   logo: aigisss.com.png
   url: https://aigisss.com/blog/
@@ -49,3 +43,6 @@
 - name: SuperPung
   logo: blog.superpung.xyz.png
   url: https://blog.superpung.xyz
+- name: 林深时见璐
+  logo: linwhitehat.github.io.png
+  url: https://linwhitehat.github.io
