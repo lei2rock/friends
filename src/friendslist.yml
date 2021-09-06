@@ -22,6 +22,14 @@
   description: 这绵延的故事还未了。
   logo: blog.jimmycai.com.png
   url: https://blog.jimmycai.com
+- title: 猫鱼的小窝
+  description: 记录猫鱼生活的琐事和分享喜欢的音乐
+  logo: 2cat.net.jpg
+  url: https://2cat.net
+- title: 致郁系
+  description: 手帐er/死宅/社恐/上班族
+  logo: www.juroku.net.jpg
+  url: https://www.juroku.net
 - title: 林洋洋
   description: 有故事的个人博客
   logo: linyy.name.png
@@ -46,10 +54,6 @@
   description: 爱生活，爱读书，爱摄影，爱运动，爱睡觉，爱旅行。
   logo: muyuuuu.github.io.png
   url: https://muyuuuu.github.io
-- title: 林深时见璐
-  description: Work-Life-Balance
-  logo: linwhitehat.github.io.png
-  url: https://linwhitehat.github.io
 - title: ZZONN
   description: 记录生活，提高生产力
   logo: www.zzonn.com.jpg
