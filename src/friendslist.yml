@@ -10,10 +10,26 @@
   description: 喜欢画画，也喜欢胡思乱想
   logo: miyehn.me.jpg
   url: https://miyehn.me/blog
-- title: Velas电波站
-  description: 非正常信号发射与搜寻装置
-  logo: www.velasx.com.jpg
-  url: https://www.velasx.com
+- title: 十年之约
+  description: 一个人的寂寞，一群人的狂欢。
+  logo: www.foreverblog.cn.png
+  url: https://www.foreverblog.cn
+- title: Armstrong
+  description: 一位视障学生的日志
+  logo: armstrong.viyf.org.png
+  url: https://armstrong.viyf.org
+- title: 米米
+  description: 米米的博客！！
+  logo: zhangshuqiao.org.jpg
+  url: https://zhangshuqiao.org
+- title: 兰铃
+  description: 爱生活，爱读书，爱摄影，爱运动，爱睡觉，爱旅行。
+  logo: muyuuuu.github.io.png
+  url: https://muyuuuu.github.io
+- title: xaoxuu
+  description: 一个 iOS 开发者
+  logo: xaoxuu.com.png
+  url: https://xaoxuu.com
 - title: 世说新语
   description: Jackieの生活觀察
   logo: www.wangyurui.top.png
@@ -26,26 +42,10 @@
   description: 记录猫鱼生活的琐事和分享喜欢的音乐
   logo: 2cat.net.jpg
   url: https://2cat.net
-- title: 林洋洋
-  description: 有故事的个人博客
-  logo: linyy.name.png
-  url: http://linyy.name
-- title: Armstrong
-  description: 一位视障学生的日志
-  logo: armstrong.viyf.org.png
-  url: https://armstrong.viyf.org
-- title: 米米
-  description: 米米的博客！！
-  logo: zhangshuqiao.org.jpg
-  url: https://zhangshuqiao.org
-- title: xaoxuu
-  description: 一个 iOS 开发者
-  logo: xaoxuu.com.png
-  url: https://xaoxuu.com
-- title: 兰铃
-  description: 爱生活，爱读书，爱摄影，爱运动，爱睡觉，爱旅行。
-  logo: muyuuuu.github.io.png
-  url: https://muyuuuu.github.io
+- title: Velas电波站
+  description: 非正常信号发射与搜寻装置
+  logo: www.velasx.com.jpg
+  url: https://www.velasx.com
 - title: Ljcbaby 的网络小屋
   description: 宁静的栖身之地
   logo: ljcbaby.top.png
@@ -62,3 +62,7 @@
   description: Follow Your Heart
   logo: blog.superpung.xyz.png
   url: https://blog.superpung.xyz
+- title: 林洋洋
+  description: 有故事的个人博客
+  logo: linyy.name.png
+  url: http://linyy.name
