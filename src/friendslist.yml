@@ -30,22 +30,10 @@
   description: 一个 iOS 开发者
   logo: xaoxuu.com.png
   url: https://xaoxuu.com
-- title: 世说新语
-  description: Jackieの生活觀察
-  logo: www.wangyurui.top.png
-  url: https://www.wangyurui.top
-- title: 频率
-  description: 这绵延的故事还未了。
-  logo: blog.jimmycai.com.png
-  url: https://blog.jimmycai.com
-- title: 猫鱼的小窝
-  description: 记录猫鱼生活的琐事和分享喜欢的音乐
-  logo: 2cat.net.jpg
-  url: https://2cat.net
-- title: Velas电波站
-  description: 非正常信号发射与搜寻装置
-  logo: www.velasx.com.jpg
-  url: https://www.velasx.com
+- title: 林洋洋
+  description: 有故事的个人博客
+  logo: linyy.name.png
+  url: http://linyy.name
 - title: Ljcbaby 的网络小屋
   description: 宁静的栖身之地
   logo: ljcbaby.top.png
@@ -62,7 +50,23 @@
   description: Follow Your Heart
   logo: blog.superpung.xyz.png
   url: https://blog.superpung.xyz
-- title: 林洋洋
-  description: 有故事的个人博客
-  logo: linyy.name.png
-  url: http://linyy.name
+- title: 世说新语
+  description: Jackieの生活觀察
+  logo: www.wangyurui.top.png
+  url: https://www.wangyurui.top
+- title: 频率
+  description: 这绵延的故事还未了。
+  logo: blog.jimmycai.com.png
+  url: https://blog.jimmycai.com
+- title: 猫鱼的小窝
+  description: 记录猫鱼生活的琐事和分享喜欢的音乐
+  logo: 2cat.net.jpg
+  url: https://2cat.net
+- title: Velas电波站
+  description: 非正常信号发射与搜寻装置
+  logo: www.velasx.com.jpg
+  url: https://www.velasx.com
+- title: 城南旧事
+  description: 有关于成长、生活与情感
+  logo: blog.loli.top.png
+  url: https://blog.loli.top
